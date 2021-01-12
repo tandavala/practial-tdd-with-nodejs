@@ -1,4 +1,10 @@
 /* eslint-disable no-undef */
+
+/**
+ * Calculadores tests
+ *
+ */
+
 const chai = require('chai');
 const calculadora = require('../lib/calculadora');
 
