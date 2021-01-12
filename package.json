@@ -4,7 +4,7 @@
   "description": "practicing tdd with nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tests": "mocha src/tests/*.test.js --exit"
   },
   "repository": {
     "type": "git",
