@@ -4,6 +4,7 @@
   "description": "practicing tdd with nodejs",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "tests": "mocha src/tests/*.test.js --exit"
   },
   "repository": {

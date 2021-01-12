@@ -6,6 +6,15 @@ const { assert } = chai;
 
 describe('TDD basic math operation', () => {
   it('should add two numbers', () => {
-    assert.equal(calculadora.add(5, 5), 10);
+    assert.equal(calculadora.add(1, 1), 2);
+  });
+  it('should subtract two numbers', () => {
+    assert.equal(calculadora.subtract(4, 2), 2);
+  });
+  it('should multiply two numbers', () => {
+    assert.equal(calculadora.multiply(2, 1), 2);
+  });
+  it('should divide two numbers', () => {
+    assert.equal(calculadora.divide(4, 2), 2);
   });
 });

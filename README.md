@@ -18,5 +18,6 @@ To run this code do the followwing:
 - cd to the root `cd practial-tdd-with-nodejs`
 - install dependencies `npm install`
 - run the tests `npm run tests`
+- run the code `npm start`
 
 If you want to contribute read the [contributing doc]()
