@@ -9,6 +9,7 @@ to accomplish this task we used the following stack:
 - Node Js v14.x
 - Mocha v8.2.1
 - Chai v4.2.0
+- github actions
 
 # How to run this code
 
