@@ -1,5 +1,3 @@
-[![Practical TDD with node js](https://github.com/t/BornInApp/workflows/android-master/badge.svg)](https://github.com/actions/practial-tdd-with-nodejs/workflows/actions/badge.svg)
-
 # practical tdd with nodejs
 
 TDD helps keep productivity high by narrowing focus of the developers, and this repository contains a practical TDD sample code.
