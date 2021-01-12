@@ -17,7 +17,7 @@ To run this code do the followwing:
 - clone the repo `https://github.com/tandavala/practial-tdd-with-nodejs.git`
 - cd to the root `cd practial-tdd-with-nodejs`
 - install dependencies `npm install`
-- run the tests `npm run tests`
+- run the tests `npm run test`
 - run the code `npm start`
 
 If you want to contribute read the [contributing doc]()
