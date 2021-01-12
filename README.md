@@ -1,3 +1,5 @@
+[![YourActionName Actions Status](https://github.com/tandavala/practial-tdd-with-nodejs/workflows/actions/badge.svg)](https://github.com/tandavala/practial-tdd-with-nodejs/actions)
+
 # practical tdd with nodejs
 
 TDD helps keep productivity high by narrowing focus of the developers, and this repository contains a practical TDD sample code.
